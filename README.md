@@ -1,4 +1,4 @@
-# Coronavirus (COVID-19) in the UK
+# Covid in HK Dashboard
 
 ![Build test for pull and push requests](https://github.com/PublicHealthEngland/coronavirus-dashboard/workflows/Build/badge.svg)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/publichealthengland/coronavirus-dashboard)
